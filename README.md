@@ -8,7 +8,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Staying up-to-date](#keeping-informed)
 - [Kurz](#training)
   - [Labs](#labs)
-  - [Nezabezpečené testovací aplikace](#vulnerable-test-targets)
+  - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#tools)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
@@ -26,7 +26,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
 
 
 
-## Vulnerable Test Targets
+## Nezabezpečené testovací aplikace
 Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplikace, které jsou zranitelné kvůli chybám v zabezpečení.  Tato část obsahuje seznam zranitelných aplikací, které lze nasadit, abyste se naučili, co nedělat.  Stejné aplikace lze zabezpečit odstraněním záměrných zranitelností, abyste se naučili, jak zabránit útočníkům v přístupu k základní infrastruktuře nebo datům.
 
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
