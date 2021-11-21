@@ -9,7 +9,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
 - [Kurz](#Kurz)
   - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
-- [Nástroje](#tools)
+- [Nástroje](#Nástroje)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
   - [Hunting](#hunting)
@@ -18,7 +18,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Threat Intelligence](#threat-intelligence)
   - [Attack Modeling](#attack-modeling)
   - [Secret Management](#secret-management)
-- [Ostatní](#tools)
+- [Ostatní](#Ostatní)
   - [Konference](#Konference)
   - [Podcasty](#Podcasty)
   - [Knihy](#Knihy)
@@ -49,6 +49,8 @@ Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplik
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
 
+
+# Nástroje
 
 # Ostatní
 Užitečné odkazy pro použití mimo kurz
