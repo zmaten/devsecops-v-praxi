@@ -6,7 +6,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Prezentace](#presentations)
   - [Iniciativy](#Iniciativy)
   - [Staying up-to-date](#keeping-informed)
-- [Kurz](#training)
+- [Kurz](#Kurz)
   - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#tools)
@@ -30,6 +30,16 @@ V současné době probíhá řada iniciativ, jejichž cílem je přenést bezpe
 * [OWASP](https://owasp.org)
 * [DevSecOps](http://devsecops.org)
 * [OpenDevSecOps](https://opendevsecops.org)
+
+
+
+# Kurz
+Odkazy a repozitáře pro kurz
+
+## IaC
+Repozitář pro trénink infrastructure as code
+
+ * [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
 
 ## Nezabezpečené testovací aplikace
 Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplikace, které jsou zranitelné kvůli chybám v zabezpečení.  Tato část obsahuje seznam zranitelných aplikací, které lze nasadit, abyste se naučili, co nedělat.  Stejné aplikace lze zabezpečit odstraněním záměrných zranitelností, abyste se naučili, jak zabránit útočníkům v přístupu k základní infrastruktuře nebo datům.
