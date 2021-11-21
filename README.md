@@ -10,10 +10,10 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#Nástroje)
-  - [Dashboards](#dashboards)
-  - [Automation](#automation)
+  - [Dashboardy](#Dashboardy)
+  - [Automatizace](#Automatizace)
   - [Hunting](#hunting)
-  - [Testing](#testing)
+  - [Testování](#Testování)
   - [Alerting](#alerting)
   - [Threat Intelligence](#threat-intelligence)
   - [Attack Modeling](#attack-modeling)
@@ -51,6 +51,108 @@ Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplik
 
 
 # Nástroje
+Užitečné nástroje pro budování platformy DevSecOps. Členěno podle kategorií (neomezuje se na Azure/MS)
+
+## Dashboardy
+
+* [Grafana](http://grafana.org/)
+* [Kibana](https://www.elastic.co/products/kibana)
+
+## Automatizace
+
+* [Demisto](https://www.demisto.com/community/)
+* [OWASP Glue](https://github.com/OWASP/glue)
+* [StackStorm](https://github.com/StackStorm/st2)
+* [Insider CLI](https://github.com/insidersec/insider)
+
+## Hunting
+This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
+
+* [GRR](https://github.com/google/grr)
+* [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+* [mig](https://github.com/mozilla/mig)
+* [Mirador](http://fathom.info/mirador/)
+* [moloch](https://github.com/aol/moloch)
+* [MozDef](https://github.com/mozilla/MozDef)
+* [osquery](https://osquery.io/)
+* [OSSEC](http://ossec.github.io/)
+* [osxcollector](https://github.com/Yelp/osxcollector)
+
+
+## Testování
+Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
+
+* [Brakeman](http://brakemanscanner.org)
+* [Checkov](https://github.com/bridgecrewio/checkov/)
+* [Chef Inspec](https://github.com/chef/inspec)
+* [Contrast Security](https://www.contrastsecurity.com)
+* [Cohesion](https://secapps.com/cohesion)
+* [David](https://david-dm.org/)
+* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
+* [Gauntlt](http://gauntlt.org/)
+* [Hakiri](https://hakiri.io)
+* [HusckyCI](https://github.com/globocom/huskyci)
+* [Infer](http://fbinfer.com/)
+* [IronWASP](https://ironwasp.org/)
+* [kube-bench](https://github.com/aquasecurity/kube-bench)
+* [Lynis](https://cisofy.com/lynis/)
+* [microscanner](https://github.com/aquasecurity/microscanner)
+* [Node Security Platform](https://nodesecurity.io/)
+* [npm-check](https://www.npmjs.com/package/npm-check)
+* [npm-outdated](https://docs.npmjs.com/cli/outdated)
+* [OSS Fuzz](https://github.com/google/oss-fuzz)
+* [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
+* [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+* [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs)
+* [Progpilot](https://github.com/designsecurity/progpilot)
+* [PureSec (Serverless Security)](https://www.puresec.io/)
+* [RetireJS](https://github.com/RetireJS/retire.js)
+* [RIPS](http://rips-scanner.sourceforge.net/)
+* [ShiftLeft Scan](https://slscan.io)
+* [Snyk](https://snyk.io)
+* [SourceClear](https://www.sourceclear.com)
+
+
+## Alerting
+Doba odezvy je kritická a zásadní pro reakci na incident, která je nutná k nápravě bezpečnostní závady. Tyto odkazy obsahují některé z projektů, které zajišťují alerting a notifikace.
+* [411](https://github.com/kiwiz/411)
+* [Alerta](https://github.com/guardian/alerta)
+* [Elastalert](https://github.com/yelp/elastalert)
+* [MozDef](https://github.com/mozilla/MozDef)
+
+## Threat Intelligence
+There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
+
+* [Alien Vault OTX](https://otx.alienvault.com/)
+* [Critical Stack](https://intel.criticalstack.com)
+* [IBM X-Force](https://exchange.xforce.ibmcloud.com)
+* [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
+* [OpenTPX](https://www.opentpx.org)
+* [Passive Total](https://www.passivetotal.org)
+* [STIX, TAXII](https://oasis-open.github.io/cti-documentation/)
+* [Threat Connect](https://threatconnect.com/)
+
+## Attack Modeling
+
+* [CAPEC](https://capec.mitre.org)
+* [IriusRisk](https://www.continuumsecurity.net/threat-modeling-tool/)
+* [Larry Osterman's Threat Modeling](https://blogs.msdn.microsoft.com/larryosterman/2007/10/01/some-final-thoughts-on-threat-modeling/)
+* [SDL Threat Modeling Tool](https://www.microsoft.com/en-us/sdl/adopt/threatmodeling.aspx)
+* [SeaSponge](http://mozilla.github.io/seasponge/)
+* [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling)
+
+## Secret Management
+Pro podporu security-as-code je třeba spravovat, zabezpečovat, udržovat a rotovat citlivá pověření a tajemství pomocí automatizace.  Níže uvedené projekty poskytují několik dobrých možností zabezpečení citlivých údajů používaných pro full-stack build a deployment.
+
+* [BlackBox](https://github.com/StackExchange/blackbox)
+* [Conjur](https://github.com/cyberark/conjur)
+* [CredStash](https://github.com/fugue/credstash)
+* [Git Secrets](https://github.com/awslabs/git-secrets)
+* [Keybase](https://keybase.io)
+* [Sops](https://github.com/mozilla/sops)
+* [Transcrypt](https://github.com/elasticdog/transcrypt)
+* [Vault](https://www.hashicorp.com/blog/vault.html)
+
 
 # Ostatní
 Užitečné odkazy pro použití mimo kurz
