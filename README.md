@@ -2,6 +2,7 @@
 Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s využitím Azure](https://www.datascript.cz/kurzy/azure/devsecops-v-praxi-s-vyuzitim-azure/)
 
 - [Teorie a info](#information)
+  - [Network security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) - (EN)
   - [Security checklist](security-checklist.md) - (EN)
   - [Prezentace](#presentations)
   - [Iniciativy](#Iniciativy)
