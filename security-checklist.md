@@ -1,7 +1,8 @@
-[Back to Contents](README.md)
+[Zpět na obsah](README.md)
 
+Bezpečnostní seznam bodů pro webové aplikace
 
-### The Security Checklist 
+### Security Checklist 
 
 ##### AUTHENTICATION SYSTEMS (Signup/Signin/2 Factor/Password reset) 
 - [ ] Use HTTPS everywhere.
