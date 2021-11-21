@@ -87,20 +87,11 @@ Tento seznam nástrojů poskytuje možnosti potřebné pro vyhledávání bezpe�
 ## Testování
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
 
-* [Brakeman](http://brakemanscanner.org)
 * [Checkov](https://github.com/bridgecrewio/checkov/)
-* [Chef Inspec](https://github.com/chef/inspec)
-* [Contrast Security](https://www.contrastsecurity.com)
-* [Cohesion](https://secapps.com/cohesion)
-* [David](https://david-dm.org/)
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
-* [Gauntlt](http://gauntlt.org/)
-* [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
-* [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
 * [kube-bench](https://github.com/aquasecurity/kube-bench)
-* [Lynis](https://cisofy.com/lynis/)
 * [microscanner](https://github.com/aquasecurity/microscanner)
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-check](https://www.npmjs.com/package/npm-check)
@@ -112,10 +103,6 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Progpilot](https://github.com/designsecurity/progpilot)
 * [PureSec (Serverless Security)](https://www.puresec.io/)
 * [RetireJS](https://github.com/RetireJS/retire.js)
-* [RIPS](http://rips-scanner.sourceforge.net/)
-* [ShiftLeft Scan](https://slscan.io)
-* [Snyk](https://snyk.io)
-* [SourceClear](https://www.sourceclear.com)
 
 
 ## Alerting
@@ -126,8 +113,7 @@ Doba odezvy je kritická a zásadní pro reakci na incident, která je nutná k 
 * [MozDef](https://github.com/mozilla/MozDef)
 
 ## Threat Intelligence
-There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
-
+Tato kategorie obsahuje nástroje, které jsou užitečné pro zachycení informací o hrozbách a jejich shromažďování.
 * [Alien Vault OTX](https://otx.alienvault.com/)
 * [Critical Stack](https://intel.criticalstack.com)
 * [IBM X-Force](https://exchange.xforce.ibmcloud.com)
