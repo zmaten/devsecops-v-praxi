@@ -4,7 +4,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
 - [Teorie a info](#information)
   - [Security checklist](security-checklist.md) - (EN)
   - [Prezentace](#presentations)
-  - [Iniciativy](#initiatives)
+  - [Iniciativy](#Iniciativy)
   - [Staying up-to-date](#keeping-informed)
 - [Kurz](#training)
   - [Labs](#labs)
@@ -24,7 +24,14 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Knihy](#Knihy)
 
 
+## Iniciativy
+There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
 
+* [OWASP](https://owasp.org)
+* [DevOps and Audit Resources](https://itsanicelife.com/2017/03/13/devops-and-audit-resources/)
+* [DevSecOps](http://devsecops.org)
+* [OpenDevSecOps](https://opendevsecops.org)
+* [Rugged DevOps](http://www.ruggedsoftware.org)
 
 ## Nezabezpečené testovací aplikace
 Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplikace, které jsou zranitelné kvůli chybám v zabezpečení.  Tato část obsahuje seznam zranitelných aplikací, které lze nasadit, abyste se naučili, co nedělat.  Stejné aplikace lze zabezpečit odstraněním záměrných zranitelností, abyste se naučili, jak zabránit útočníkům v přístupu k základní infrastruktuře nebo datům.
