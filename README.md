@@ -49,6 +49,9 @@ Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplik
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
 
+
+# Ostatní
+Užitečné odkazy pro použití mimo kurz
 ## Konference
 
 * [DevSecCon](http://devseccon.com)
