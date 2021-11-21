@@ -84,7 +84,7 @@ Užitečné odkazy pro použití mimo kurz
 * [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
 
 ## Knihy
-Books focused around DevSecOps, bringing the security focus up front.
+Anglicky psané knihy zaměřené na DevSecOps.
 
 * [DevOpsSec](http://www.oreilly.com/webops-perf/free/devopssec.csp)
 * [Docker Securitiy - Quick Reference](https://binarymist.io/publication/docker-security/)
