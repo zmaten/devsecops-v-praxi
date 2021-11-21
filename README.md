@@ -10,6 +10,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Staying up-to-date](#keeping-informed)
 - [Kurz](#Kurz)
   - [Policy as code](#policy-as-code)
+  - [Software composition analysis](#Software-composition-analysis)
   - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#Nástroje)
@@ -40,6 +41,10 @@ V současné době probíhá řada iniciativ, jejichž cílem je přenést bezpe
 # Kurz
 Odkazy a repozitáře pro kurz
 
+## Software composition analysis
+Azure Devops nástroje pro analýzu závislostí
+ * [WhiteSource Bolt](https://marketplace.visualstudio.com/items?itemName=whitesource.whiteSource-bolt-v2)
+ 
 ## Policy as Code
 Repozitář pro trénink policy as code
 
