@@ -56,6 +56,7 @@ Užitečné nástroje pro budování platformy DevSecOps. Členěno podle katego
 
 ## Generování-SBoM
 * [CycloneDX](https://cyclonedx.org/)
+*   [GitHub projektu](https://github.com/CycloneDX/cyclonedx-dotnet) (.NET)
 * 
 ## Dashboardy
 
