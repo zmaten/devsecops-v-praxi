@@ -54,10 +54,10 @@ Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplik
 # Nástroje
 Užitečné nástroje pro budování platformy DevSecOps. Členěno podle kategorií (neomezuje se na Azure/MS)
 
-## Generování-SBoM
-* [CycloneDX](https://cyclonedx.org/)
-*   [GitHub projektu](https://github.com/CycloneDX/cyclonedx-dotnet) (.NET)
-* 
+## Generování SBoM
+* [CycloneDX](https://cyclonedx.org/) (Info)
+* [CycloneDX - GitHub](https://github.com/CycloneDX/cyclonedx-dotnet) (.NET)
+
 ## Dashboardy
 
 * [Grafana](http://grafana.org/)
