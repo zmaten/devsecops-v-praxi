@@ -3,7 +3,8 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
 
 - [Teorie a info](#information)
   - [Network security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices) - (EN)
-  - [Security checklist](security-checklist.md) - (EN)
+  - [Operation security checklist](https://docs.microsoft.com/en-us/azure/security/fundamentals/operational-checklist) - (EN)
+  - [Web security checklist](security-checklist.md) - (EN)
   - [Prezentace](#presentations)
   - [Iniciativy](#Iniciativy)
   - [Staying up-to-date](#keeping-informed)
