@@ -12,7 +12,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
 - [Nástroje](#Nástroje)
   - [Dashboardy](#Dashboardy)
   - [Automatizace](#Automatizace)
-  - [Hunting](#hunting)
+  - [Analýza a vyhledávání chyb](#Analýza-a-vyhledávání-chyb)
   - [Testování](#Testování)
   - [Alerting](#alerting)
   - [Threat Intelligence](#threat-intelligence)
@@ -65,8 +65,8 @@ Užitečné nástroje pro budování platformy DevSecOps. Členěno podle katego
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Insider CLI](https://github.com/insidersec/insider)
 
-## Hunting
-This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
+## Analýza a vyhledávání chyb
+Tento seznam nástrojů poskytuje možnosti potřebné pro vyhledávání bezpečnostních anomálií a identifikaci pravidel, která by měla být automatizována a rozšířena tak, aby podporovala požadavky na rozsah.
 
 * [GRR](https://github.com/google/grr)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
