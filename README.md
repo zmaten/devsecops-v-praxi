@@ -10,6 +10,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#Nástroje)
+  - [Software bill of materials](#Generování-SBoM)
   - [Dashboardy](#Dashboardy)
   - [Automatizace](#Automatizace)
   - [Analýza a vyhledávání chyb](#Analýza-a-vyhledávání-chyb)
@@ -53,6 +54,9 @@ Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplik
 # Nástroje
 Užitečné nástroje pro budování platformy DevSecOps. Členěno podle kategorií (neomezuje se na Azure/MS)
 
+## Generování-SBoM
+* [CycloneDX](https://cyclonedx.org/)
+* 
 ## Dashboardy
 
 * [Grafana](http://grafana.org/)
