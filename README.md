@@ -48,8 +48,8 @@ Azure Devops nástroje pro analýzu závislostí
 ## Policy as Code
 Repozitář pro trénink policy as code
 
- * [PaC repozitář](https://github.com/Azure/manage-azure-policy/blob/main/tutorial/azure-policy-as-code.md)
- *
+ * [PaC v Azure Devops](https://github.com/Azure/manage-azure-policy/blob/main/tutorial/azure-policy-as-code.md)
+ 
 ## IaC
 Repozitář pro trénink infrastructure as code
 
