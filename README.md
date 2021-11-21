@@ -7,7 +7,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Iniciativy](#Iniciativy)
   - [Staying up-to-date](#keeping-informed)
 - [Kurz](#training)
-  - [Labs](#labs)
+  - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#tools)
   - [Dashboards](#dashboards)
