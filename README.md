@@ -7,6 +7,7 @@ Repozitář s osnovou, labs, návody a odkazy pro kurz [DevSecOps v praxi s vyu�
   - [Iniciativy](#Iniciativy)
   - [Staying up-to-date](#keeping-informed)
 - [Kurz](#Kurz)
+  - [Policy as code](#policy-as-code)
   - [IaC repozitář - RockPaperScissorsLizardSpock](https://github.com/zmaten/Uvod-do-DevSecOps-RockPaperScissorsLizardSpock)
   - [Nezabezpečené testovací aplikace](#Nezabezpečené-testovací-aplikace)
 - [Nástroje](#Nástroje)
@@ -37,6 +38,11 @@ V současné době probíhá řada iniciativ, jejichž cílem je přenést bezpe
 # Kurz
 Odkazy a repozitáře pro kurz
 
+## Policy as Code
+Repozitář pro trénink policy as code
+
+ * [PaC repozitář](https://github.com/Azure/manage-azure-policy/blob/main/tutorial/azure-policy-as-code.md)
+ *
 ## IaC
 Repozitář pro trénink infrastructure as code
 
