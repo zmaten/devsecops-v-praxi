@@ -35,7 +35,6 @@ Důležité je prohloubit si znalosti tím, že se naučíte, jak prolomit aplik
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
 
 ## Konference
-A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
 
 * [DevSecCon](http://devseccon.com)
 * [DevOps Connect](http://www.devopsconnect.com/)
@@ -45,9 +44,8 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
 * [RSA Conference](http://www.rsaconference.com)
 * [All Day DevOps](https://www.alldaydevops.com/)
-* 
+
 ## Podcasty
-A small collection of DevOps and Security podcasts.
 
 * [Arrested DevOps](https://www.arresteddevops.com/)
 * [Brakeing Down Security Podcast](http://www.brakeingsecurity.com/)
